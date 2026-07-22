@@ -1,6 +1,8 @@
 Resolution in an IC (Integrated Circuit) chip typically refers to how precisely a chip can measure, process, or generate signals. 
 Most commonly, it describes bit resolution in chips that translate between the physical world and computer data (like sound, temperature, or voltage).
-The concept varies slightly depending on the specific type of IC:1. Data Converters (ADC and DAC)These are chips that convert physical analog signals into digital data (ADCs) or vice versa (DACs).
+The concept varies slightly depending on the specific type of IC:1. Data Converters (ADC and DAC)
+
+These are chips that convert physical analog signals into digital data (ADCs) or vice versa (DACs).
 What it means: The "resolution" is the number of bits the chip uses to divide a range of electrical signals.
 How it works: A chip with more bits divides a voltage range into many more, smaller steps, allowing it to capture far greater detail and precision.
 
