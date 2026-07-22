@@ -4,7 +4,8 @@ The concept varies slightly depending on the specific type of IC:1. Data Convert
 What it means: The "resolution" is the number of bits the chip uses to divide a range of electrical signals.
 How it works: A chip with more bits divides a voltage range into many more, smaller steps, allowing it to capture far greater detail and precision.
 
-Example: A 12-bit chip divides a signal into 2¹² (4,096) discrete levels, while a 16-bit chip divides it into 2¹⁶ (65,536) discrete levels.2. 
+Example: A 12-bit chip divides a signal into 2¹² (4,096) discrete levels, while a 16-bit chip divides it into 2¹⁶ (65,536) discrete levels.
+2. 
 Microcontrollers and ProcessorsWhat it means: If it's a processing chip, resolution often refers to timer/counter resolution or PWM (Pulse Width Modulation) resolution.
 How it works: This dictates the finest adjustments the chip can make to things like motor speeds, LED brightness, or signal timing.
 Example: A 10-bit PWM resolution allows the chip to set 1,024 distinct levels of power output instead of just 256 (like an 8-bit chip).
